@@ -36,9 +36,9 @@ def counts():
 
 counts()
 
-
-
 # Task 3 Review Summary
+
+# Implement a function that takes the first 30 characters of a review and appends "…" to create a summary.
 
 def review_summary():
     for review in python_reviews:
